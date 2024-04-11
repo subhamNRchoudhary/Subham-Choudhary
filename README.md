@@ -1,10 +1,19 @@
 # Subham Choudhary - Portfolio
 
-## Contact Information
-- **Phone:** +91 93300 13189
+## Overview
+- **Repositories:** 1.9k
+- **Projects:**
+- **Packages:**
+- **Stars:** 3.8k
 - **Location:** Bangalore, Karnataka
 - **Email:** subhamsunny153@gmail.com
 - **LinkedIn:** [linkedin.com/in/subham-choudhary-238654229](https://www.linkedin.com/in/subham-choudhary-238654229)
+
+## Achievements
+- **Achievement:** Quickdraw
+- **Achievement:** Pull Shark
+- **Achievement:** Starstruckx4
+- **Achievement:** Arctic Code Vault Contributor
 
 ## Professional Summary
 Dynamic Data Science graduate skilled in Python, machine learning, NLP, SQL, and Power BI. Eager to optimize products, enhance business, and contribute to informed decisions. PGDM background with strong problem-solving and collaborative proficiency.
